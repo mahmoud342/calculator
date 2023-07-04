@@ -1,6 +1,6 @@
 # calculator
 
-A new Flutter project.
+A new Flutter project(calculator application that you can add,subtract,divide or multiply any two numbers with it).
 
 ## Getting Started
 
